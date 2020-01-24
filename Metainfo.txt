@@ -2,7 +2,7 @@ Name of QuantLet: SFEplotma1-newdata
 
 Published in: Statistics of Financial Markets
 
-Description: 'Plots two realizations of an MA(1) (moving average) process with MA coefficient beta,  simulate from an arima model with innovations n1 and n2'
+Description: 'Plots two realizations of an MA(1) (moving average) process with MA coefficient beta,  simulate from an arima model with innovations n1 and n2.'
 
 Keywords: moving-average, stationary, linear, discrete, simulation, time-series, process, stochastic-process, stochastic, plot, graphical representation
 
@@ -11,9 +11,7 @@ Author: Ranqing Song
 Submitted: January 24 2020 by Ranqing Song
 
 Input: 
-
 - n1, n2 : lags
-
 - beta : moving average coefficient 
 
 
